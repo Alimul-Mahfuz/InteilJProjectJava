@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/InteilJProjectJava.iml" filepath="$PROJECT_DIR$/.idea/InteilJProjectJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCollection/JavaCollection.iml" filepath="$PROJECT_DIR$/JavaCollection/JavaCollection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaDataBase/JavaDataBase.iml" filepath="$PROJECT_DIR$/JavaDataBase/JavaDataBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFileTest/JavaFileTest.iml" filepath="$PROJECT_DIR$/JavaFileTest/JavaFileTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaGenerics/JavaGenerics.iml" filepath="$PROJECT_DIR$/JavaGenerics/JavaGenerics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaMultiThreads/JavaMultiThreads.iml" filepath="$PROJECT_DIR$/JavaMultiThreads/JavaMultiThreads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaStream/JavaStream.iml" filepath="$PROJECT_DIR$/JavaStream/JavaStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaThreads/JavaThreads.iml" filepath="$PROJECT_DIR$/JavaThreads/JavaThreads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Practice/Java_Practice.iml" filepath="$PROJECT_DIR$/Java_Practice/Java_Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReadingFile/ReadingFile.iml" filepath="$PROJECT_DIR$/ReadingFile/ReadingFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WritingJavaFile/WritingJavaFile.iml" filepath="$PROJECT_DIR$/WritingJavaFile/WritingJavaFile.iml" />
+    </modules>
+  </component>
+</project>
